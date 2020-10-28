@@ -8,7 +8,7 @@
 * dotenv
 * validatorJS
 * bcrypt
-* JWT
+* JWT (jsonwebtoken)
 
 ### app we use
 * postman
