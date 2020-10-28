@@ -7,6 +7,7 @@
 * mongoose
 * dotenv
 * validatorJS
+* bcrypt
 * JWT
 
 ### app we use
